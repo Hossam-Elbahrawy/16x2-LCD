@@ -3,7 +3,7 @@
 
 Introduction
 ------------
-A simple 16x2 LCD interfacing with ATmega328p in both 4-bit and 8-bit modes using the AVR toolchain without the Arduino IDE.
+A simple 16x2 LCD interfacing with ATmega328p in 4-bit mode using the AVR toolchain without the Arduino IDE.
 
 Hardware
 --------
